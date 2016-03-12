@@ -1,4 +1,4 @@
-public class Orang
+public abstract class Orang
 {
 	private String nama;
 	private String noIdentitas;
