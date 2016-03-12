@@ -17,4 +17,7 @@ public class Petugas extends Orang
 	public void setPasswordPetugas(String Password){
 		this.Password=Password;
 	}
+	public String getPassword(){
+		return this.Password;
+	}
 }
